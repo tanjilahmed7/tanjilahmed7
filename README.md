@@ -79,5 +79,5 @@ to production.
 ## 🌍 Find Me
 
 - Website: https://tanjilahmed.com  
-- LinkedIn: <your-linkedin-url>  
+- LinkedIn: https://www.linkedin.com/in/tanjil94/
 - Email: tanjilahmed87@gmail.com
